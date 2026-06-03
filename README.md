@@ -65,16 +65,16 @@ O desenvolvimento do sistema permitiu ao grupo aplicar na prática conceitos fun
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/USERNAME_DO_CRIS">
-        <img src="https://github.com/USERNAME_DO_CRIS.png" width="100px;" alt="Foto do Cris"/><br />
-        <sub><b>Cristopher</b></sub><br />
+      <a href="https://github.com/Cristopher-Marcali">
+        <img src="https://github.com/Cristopher-Marcali.png" width="100px;" alt="Foto do Cris"/><br />
+        <sub><b>Cristopher Marçali (Cris)</b></sub><br />
         <small>Desenvolvedor Front-end</small>
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/USERNAME_DO_GABRIEL">
-        <img src="https://github.com/USERNAME_DO_GABRIEL.png" width="100px;" alt="Foto do Gabriel"/><br />
-        <sub><b>Gabriel</b></sub><br />
+      <a href="https://github.com/GQRUni9">
+        <img src="https://github.com/GQRUni9.png" width="100px;" alt="Foto do Gabriel"/><br />
+        <sub><b>Gabriel (GQRUni9)</b></sub><br />
         <small>Desenvolvedor Front-end</small>
       </a>
     </td>
