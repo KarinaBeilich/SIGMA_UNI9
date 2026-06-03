@@ -111,4 +111,4 @@ O desenvolvimento do sistema permitiu ao grupo aplicar na prática conceitos fun
 
 ## 👤 Autores / Contato
 
-* **Karina Beilich** - [Seu GitHub](https://github.com/KarinaBeilich)
+* **Karina Beilich** - https://github.com/KarinaBeilich
