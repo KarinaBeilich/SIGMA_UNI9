@@ -85,9 +85,9 @@ O desenvolvimento do sistema permitiu ao grupo aplicar na prática conceitos fun
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/USERNAME_DO_THIAGO">
-        <img src="https://github.com/USERNAME_DO_THIAGO.png" width="100px;" alt="Foto do Thiago"/><br />
-        <sub><b>Thiago</b></sub><br />
+      <a href="https://github.com/ThiagoPorchat77">
+        <img src="https://github.com/ThiagoPorchat77.png" width="100px;" alt="Foto do Thiago"/><br />
+        <sub><b>Thiago Porchat</b></sub><br />
         <small>Documentação Técnica</small>
       </a>
     </td>
