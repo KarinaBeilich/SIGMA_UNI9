@@ -1,4 +1,4 @@
-# 🏛️ SIGMA_UNI9 - Gerador de Assinaturas Corporativas
+# 🏛️ SIGMA - Gerador de Assinaturas Corporativas
 
 O **SIGMA** é um sistema de software desenvolvido em ambiente acadêmico, mas com aplicação 100% voltada para o mercado real. O projeto nasceu da identificação de uma dor real: empresas que não possuem um sistema centralizado para padronizar e gerar as assinaturas de e-mail dos seus colaboradores. 
 
