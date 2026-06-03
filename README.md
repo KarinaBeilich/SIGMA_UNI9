@@ -1,6 +1,6 @@
 # 🏛️ SIGMA - Gerador de Assinaturas Corporativas
 
-O **SIGMA**(Sistema Integrado de Gestão para Modelos de Assinatura) é um sistema de software desenvolvido em ambiente acadêmico, mas com aplicação 100% voltada para o mercado real. O projeto nasceu da identificação de uma dor real: empresas que não possuem um sistema centralizado para padronizar e gerar as assinaturas de e-mail dos seus colaboradores. 
+O **SIGMA** (Sistema Integrado de Gestão para Modelos de Assinatura) é um sistema de software desenvolvido em ambiente acadêmico, mas com aplicação 100% voltada para o mercado real. O projeto nasceu da identificação de uma dor real: empresas que não possuem um sistema centralizado para padronizar e gerar as assinaturas de e-mail dos seus colaboradores. 
 
 A ferramenta foi criada para solucionar esse problema de identidade visual e processos manuais, servindo simultaneamente como o projeto prático de entrega da faculdade.
 
